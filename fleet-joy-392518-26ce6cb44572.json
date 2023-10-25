@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fleet-joy-392518",
+  "private_key_id": "26ce6cb445728c299727a7d819e96557c2ed4704",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCliDrkmnIPMWGX\nDHy0ElpjQNAfjh4owHu2cBcItXjAFky6bitZDziCRZpWNQnmjqZRxtK6P9ZEIg8j\nI/V26jGpzF0A0Y277I0orbFrFYUvVrvf+nN0jKYa4JrMb6WpQD+JkGE/NXO0Xa2Y\n88g7yQ7t5zqjfGrc+uRPuoK31BAwPTXsGJQEVvypm72H0cODnaTOK2ncLvjr7L4h\nyAYej+fsvsclEU5MejQZ4OPqs3iFk5cpTCpZOlvo33pCAsiOG/Z4scnwD1hj21Kw\nlavFQHzu14aP6W210nCO71C7Wcfqkf5cQTRGpiN/vZcJrTBDMHo4cQ8OUDrOegvK\nvQS1fKWPAgMBAAECggEAOXM+CWBHDNnVJoD5eN/TyhXRBdqjwf4IEcn2XJnrFjPH\nHn8lAUxkjuYMSjYvQPsqY0Bvm5+TRGNTwJz20PY4FVftwV55ZAsV9NPPuzwlVMgz\n/WjlkEJOVg60+xYWt1aqlppq/e6VwTgwC2E0kfdWfKAffGUui5JyEe/H9XgexDay\nz3RAVqO8s/OxdKuQiaXeYZU40SQGwrzYKDrvKZhB5ujnPTbOBErA3wBmbMcCSPkQ\n/QTe8ilzpj+EH/a9ogUghzq+HzADMpbbARN0nRn9SESalnaqiuXNWeBuN9UQO+cN\ngmNQwBct+V0aZNgDOlsJxzhzJtGZCOB8GEzclR2luQKBgQDiCM9mEDBhailTRBEe\nZgSEoFmrTuwBTjfbfDKM3z2CQnS90PEJcFOKGw+qG9jYyAM5ZPgzC+3yZJYglvqM\nPnaPohHyv1u56xaVIdiS58Fv2Z3wJlDmAsDhMyuwPg88qULvd/Fb6vBbzxm+97PF\n0O6hrESrs3NS3OOZOfJjx+ApeQKBgQC7ehW9sTSTXJICQ720gSB+m9dVZHsgA0ah\n/1XscoKokvoKQA1kTLV/w4uo3r8sIp5OVds7/Cx9VDExYZKNcI1+3/8pHyGQhSMb\nUtLBVDq++HJ//Hb5KnDKiPvFcqKbliJjX1HI+ricJN6HuiiNAwblflU0qSCPswm3\nNNsSzmYNRwKBgDuysfw12GFSJZn9RzwtG5Jfu28YSBLMMsqAUeWM7HTj0mtzrMWe\naiH2pbt64VnX8aoN9dOdmfnEATaYSZISyUOEPZNMYRCIe41lxAqAtUEyS5lqtUEa\nhxCzcB17NpEB71DJ7/Aj69mDqDwctdlQJkaC9hwXKCVBe8czW8ZoutaZAoGAXO7k\n7hZ0sIPX4QWBeYP0/q3z7WGU40accdtn1YDiIfxRtFkSCmE4K3Bcv8ZDT/aNMNnA\nhpi32RyuEgODKVfc3ELfcpv7AG/u+jFxReKiCF6SK72ToGoYZV3IKJVt4+BlhYsP\nuKgIcWaZZQCz70rL1WFtjWA1QuaGb2nlGwpzbisCgYEA3pvkXAx8T8OJCmi40P4H\nMsrjgZlAImf/v30TaFcCMwB0BHt191ee0w0YVliua94bqtxdIT6PW+Is7mPA8r+Z\n/GXJX7LMV6/WKHcikRFYncfSp3YlOIqVo2rTmMJdmRvO5ig6oX5J6+hAvHdHifH4\nOSJzZG+u+MgmZpqJFqF9Ero=\n-----END PRIVATE KEY-----\n",
+  "client_email": "giftedclan0305@fleet-joy-392518.iam.gserviceaccount.com",
+  "client_id": "106440585095595742336",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/giftedclan0305%40fleet-joy-392518.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
