@@ -13,12 +13,10 @@ sheet = client.open('Ticket master sheet').get_worksheet(0)
 data = ['John Doe', 'johndoe@example.com', 'New York']
 sheet.append_row(data)
 
-# Get the URL and ID of the newly created Google Sheet
+# Get the URL and ID of the Google Sheet
 sheet_url = sheet.url
-sheet_id = sheet.id
 
-print("New Google Sheet created successfully!")
+print("Data added to Google Sheet successfully!")
 print("URL:", sheet_url)
-print("ID:", sheet_id)
 
 print("Data added successfully!")
