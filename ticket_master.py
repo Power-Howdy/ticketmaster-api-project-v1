@@ -33,7 +33,6 @@ class TicketMasterAPI:
         return records
     
     def get_all_data(self):
-        # all_records = []
         while self.current_page < self.total_pages:
             print("--> getting data for page ", self.current_page, " of ", self.total_pages)
             if self.page_limit > 0 and self.current_page >= self.page_limit:

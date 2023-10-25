@@ -13,11 +13,5 @@ class GoogleSheetManager:
     
     def insert_data(self, data):
         # Add data to the sheet
-        self.sheet.append_row(data)
-        
-        # Get the URL of the Google Sheet
-        sheet_url = self.sheet.url
-        
-        print("Data added to Google Sheet successfully!")
-        print("URL:", sheet_url)
+        self.sheet.append_row(data)        
 
